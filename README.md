@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Shahmir
-- 👀 I’m interested in music, web dev and game dev mostly. Also, waffles and desserts are nice!
-- 🌱 I’m currently learning Computer Science at Sunway University. Personally learning more on Unity game dev and web development.
-- 💞️ I’m looking to collaborate on anything interesting.
-- 📫 Reach me on insta:: @shahms.v
-
 <h1 align="center">Hi 👋, I'm Shahmir</h1>
 <h3 align="center">Lil smol web and game developer from Malaysia!</h3>
 
