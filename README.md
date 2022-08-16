@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shahmir</h1>
-<h3 align="center">Lil smol web and game developer from Malaysia!</h3>
+<h3 align="center">Lil smol developer from Malaysia!</h3>
 
-🌱 I’m currently a student in **Sunway University**
+🌱 I’m currently a 3rd year CS student in **Sunway University**
 
-👀 Interested in **music, web dev and game dev mostly.** Also, waffles and desserts are nice!
+👀 Interested in **fullstack, Cloud and building stuff.** Also, waffles and desserts are nice!
 
-👯 Looking to collaborate on **game projects, web projects or projects to help our community.**
+👯 Looking to collaborate on **web projects or projects to help our community.**
 
-🎨 Currently **learning full-stack web dev** using MERN stack (MongoDB, ExpressJS, React, Node)
+🎨 Currently **learning full-stack web dev, exploring cloud tech** using React, Typescript, Prisma, GraphQL,  Docker, GCP
 
 📫 Reach me on email or insta: **Sham9871@gmail.com / @shahms.v**
+
+🖌️ My **<a href="https://www.smolwaffle.com" target="_blank">website</a>** has my latest projects!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
