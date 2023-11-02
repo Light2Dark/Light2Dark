@@ -3,11 +3,11 @@
 
 🌱 I’m currently a 3rd year CS student in **Sunway University**
 
-👀 Interested in **data, Cloud and building stuff.** Also, waffles and desserts are nice!
+👀 Interested in **building things with an impact.** Also, waffles and desserts are nice!
 
 👯 Looking to collaborate on **data or web projects to help our community.**
 
-🎨 Currently **learning data engineering, exploring cloud tech** using Python, Prefect, DBT, Airflow, GCP, AWS and Docker
+🎨 Currently **learning cloud technologies and building applications** using Python, DBT, GCP, AWS and Docker
 
 📫 Reach me on email or insta: **Sham9871@gmail.com / @shahms.v**
 
