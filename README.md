@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shahmir</h1>
 <h3 align="center">Lil smol developer from Malaysia!</h3>
 
-🌱 I’m currently a 3rd year CS student in **Sunway University**
+🌱 I’m currently working at Grab as a **software engineer**
 
 👀 Interested in **building things with an impact.** Also, waffles and desserts are nice!
 
 👯 Looking to collaborate on **data or web projects to help our community.**
 
-🎨 Currently **learning cloud technologies and building applications** using Python, DBT, GCP, AWS and Docker
+🎨 Currently **learning cloud technologies and building applications** using Go, AWS, Python~
 
 📫 Reach me on email or insta: **Sham9871@gmail.com / @shahms.v**
 
