@@ -5,7 +5,7 @@
 
 👀 Interested in **building things with an impact.** Also, waffles and desserts are nice!
 
-👯 Looking to collaborate on **data or web projects to help our community.**
+👯 Looking to collaborate on **data or web projects to help peeps / animals / trees.**
 
 🎨 Currently **learning cloud technologies and building applications** using Go, AWS, Python~
 
