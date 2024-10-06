@@ -9,7 +9,7 @@
 
 🎨 Currently learning cloud technologies and building applications using Go, AWS, Python~
 
-📫 Reach me on email or insta: **Sham9871@gmail.com / @shahms.v**
+📫 Reach me on email at Sham9871@gmail.com or [LinkedIn](https://linkedin.com/in/shahmir-varqha)
 
 🖌️ My <a href="https://www.smolwaffle.com" target="_blank">website</a> has my projects!
 
