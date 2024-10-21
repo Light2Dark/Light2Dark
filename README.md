@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahmir</h1>
-<h3 align="center">Lil smol developer from Malaysia!</h3>
+<h3 align="center">Lil smol developer</h3>
 
 🌱 I’m currently working at Grab as a software engineer
 
