@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahmir</h1>
 <h3 align="center">Lil smol developer</h3>
 
-🌱 I’m currently working at Grab as a software engineer
+🌱 Open to software / data engineer roles
 
 👀 Interested in building aka digital plumber. Also, waffles and desserts are nice!
 
