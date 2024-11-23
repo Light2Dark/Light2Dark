@@ -3,7 +3,7 @@
 
 🌱 Open to software / data engineer roles
 
-👀 Interested in building aka digital plumber. Also, waffles and desserts are nice!
+👀 Interested in building aka digital plumber. Also, waffles and non-sweet desserts are nice!
 
 👯 Looking to collaborate on data or web projects to help peeps / animals / trees
 
