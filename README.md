@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shahmir</h1>
 <h3 align="center">Lil smol developer</h3>
 
-🌱 Open to software / data engineer roles
+🌱 Digital plumber at [Grab, driving forward Southeast Asia!](https://www.grab.com/sg/)!
 
-👀 Interested in building aka digital plumber. Also, waffles and non-sweet desserts are nice!
+⛈️ Maintaining [largest weather dataset](https://www.kaggle.com/datasets/shahmirvarqha/weather-data-malaysia) in Malaysia
 
-👯 Looking to collaborate on data or web projects to help peeps / animals / trees
+🦧 Animals, trees and waffles > humans
 
-🎨 Currently learning cloud technologies and building applications using Go, AWS, Python~
+🎨 Experienced in Go, Python, AWS, the ~latest~ popular JS framework atm.
 
 📫 Reach me on email at Sham9871@gmail.com or [LinkedIn](https://linkedin.com/in/shahmir-varqha)
 
-🖌️ My <a href="https://www.smolwaffle.com" target="_blank">website</a> has my projects!
+🖌️ Check out my website, [Smolwaffle](https://www.smolwaffle.com)
 
 <!---
 Light2Dark/Light2Dark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
