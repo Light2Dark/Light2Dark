@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahmir</h1>
 <h3 align="center">Lil smol developer</h3>
 
-🌱 Digital plumber at [Grab, driving forward Southeast Asia!](https://www.grab.com/sg/)!
+🌱 Digital plumber at [Grab, driving forward Southeast Asia!](https://www.grab.com/sg/)
 
 ⛈️ Maintaining [largest weather dataset](https://www.kaggle.com/datasets/shahmirvarqha/weather-data-malaysia) in Malaysia
 
