@@ -3,7 +3,7 @@
 
 🌱 Engineer @ [marimo](https://marimo.io/). `pip install marimo && marimo tutorial intro`
 
-⛈️ Maintaining [largest weather dataset](https://www.kaggle.com/datasets/shahmirvarqha/weather-data-malaysia) in Malaysia
+⛈️ Maintained [largest weather dataset](https://www.kaggle.com/datasets/shahmirvarqha/weather-data-malaysia) in Malaysia
 
 🦧 Animals, trees and waffles > humans
 
