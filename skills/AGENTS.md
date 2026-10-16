@@ -9,9 +9,9 @@ Do not be afraid to propose or challenge the architecture of existing code. Code
 ## Coding
 
 - Typesafety is important, leverage it. Avoid being lazy with types.
-- Prefer readable code over concise code. Avoid nested ternaries.
+- Prefer readable code over concise code.
 - Tests are good! Endless smoke tests, and "regression" tests are not so good. Tests are becoming cheaper to run, so you can always write more, run them, and discard any non-useful ones before committing to production.
-- Comments should be used to explain the why, not the what. Code should be written to be self-documenting, if you find the comment starts becoming verbose, consider refactoring the code.
+- Comments should be very minimal. They should be used to explain the why, not the what. Code should be written to be self-documenting, if you find the comment starts becoming verbose, consider refactoring the code.
 
 ## Questions or investigations are read-only
 

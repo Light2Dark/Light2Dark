@@ -18,8 +18,8 @@ Reply with a written reason when dismissing false positives.
 
 When leaving replies, format this way:
 ```md
-[MODEL_SLUG] responding on behalf of Shahmir
------
+> [!NOTE]
+> [MODEL_SLUG] responding on behalf of Shahmir
 
 [actual reply]
 ```

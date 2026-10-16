@@ -31,19 +31,16 @@ GOOD:
 For descriptions:
 - Open the description with a simple explanation of the problem based on the user's original request, then briefly explain the solution. Do not inventory list the changes.
 - Detail the why we made this decision rather than just how.
-- Avoid writing test plans.
+- Avoid writing test plans or validation messages.
 - You should add a short blurb at the end of the description that says: "> Written by [MODEL_SLUG] on [HARNESS_SLUG]"
 
 The repository might enforce a label for the PR. If so, choose one and apply it.
 
 ### 6. Attach visual evidence when it helps reviewers.
-- When screenshots or recordings were produced while verifying the change, upload them as native GitHub attachments with the local [`gh-image`](https://github.com/drogers0/gh-image) extension. Do not commit them to the repository or upload them to a public image host.
-- Install the extension if needed: `gh extension install drogers0/gh-image`.
-- Upload against the PR's repository explicitly: `gh image --repo <owner/repo> <image-or-video>...`.
-- `gh image` prints ready-to-use Markdown for images and a bare URL for videos. Add that output to the PR description or a concise visual-verification comment with `gh pr comment <number> --body-file <file>`.
-- Use the signed-in local browser session. Never extract, print, persist, or pass the GitHub `user_session` cookie; never configure `GH_SESSION_TOKEN` or use this workflow in CI.
-- Treat every upload as publishing data to the PR's audience. Check the media for credentials, personal data, unrelated windows, and other sensitive information first.
-- The extension uses GitHub's undocumented attachment upload flow. If it fails, report the failure instead of silently switching to a public hosting service.
+- When screenshots or recordings were produced while verifying the change, upload them as native GitHub attachments with `gh --attach`. Do not commit them to the repository or upload them to a public image host.
+- Prefer embedding them in the description: reference the local file in the body (`![Login error state](./login.png)`), then run `gh pr edit <number> --body-file <file> --attach ./login.png`. `gh` rewrites the reference to the uploaded asset.
+- For evidence that does not belong in the description, post a concise visual-verification comment: `gh pr comment <number> --body-file <file> --attach './after.png#Alt text'`.
+- Give every image alt text that says what it shows. Use the `<file>#<alt>` form or the alt in the body reference. Videos cannot have alt text.
 
 ### 7. Next steps
 

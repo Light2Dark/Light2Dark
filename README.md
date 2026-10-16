@@ -7,7 +7,7 @@
 
 🦧 Animals, trees and waffles > humans
 
-🎨 Experienced in Go, Python, AWS, the ~latest~ popular JS framework atm.
+🎨 Experienced in Python, Go, AWS, the ~latest~ popular JS framework atm.
 
 📫 Reach me on email at Sham9871@gmail.com or [LinkedIn](https://linkedin.com/in/shahmir-varqha)
 
